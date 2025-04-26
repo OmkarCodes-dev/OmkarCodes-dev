@@ -19,7 +19,6 @@ Stockify CLI App – An inventory management system using Java and OOP principle
 
 Email: wanjariomkar9@gmail.com
 LinkedIn: www.linkedin.com/in/omkar-wanjari-07497b200
-💡 Open To:
 
-Backend Development | Java Development | Software Engineering Roles
+💡 Open To: Backend Development | Java Development | Software Engineering Roles
 --->
